@@ -1,4 +1,4 @@
-//Задание3
+//Задание4
 function everySecond(from, to) {
     let current = from;
     
